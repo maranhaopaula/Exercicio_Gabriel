@@ -1,0 +1,24 @@
+.foto {
+    width: 800px;
+    height: 800px;
+    border: 10px solid black; 
+    border-radius: 20px;
+    padding: 20px;
+    background-image: url(imagem.png);
+    background-size: cover;
+}
+.caixa1 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: #fff;
+}
+.caixa2 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: #000;
+
+}
