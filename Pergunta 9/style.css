@@ -1,0 +1,12 @@
+.minhaCaixaTexto {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid red;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px lightgray;
+    width: 250px;
+    height: 100px;
+    background-color: white;
+}
+
+

@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://viacarreira.com/wp-content/uploads/2023/01/cuidador-de-idosos.png);
+    background-size: cover;
+}
+
+
+.meuFormulario input, .meuFormulario button {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+.meuFormulario button {
+    background-color:rgb(168, 160, 160);
+    color: blue;
+}
+
